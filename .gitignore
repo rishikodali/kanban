@@ -1,0 +1,36 @@
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### Maven ###
+/log/
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### Gradle ###
+.gradle/
+/build/
+!gradle/wrapper/gradle-wrapper.jar
+
+### Package Files ###
+*.jar
+*.war
+*.ear
+*.db
+
+### Logs ###
+*.log*
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### VS Code ###
+.vscode/
+
+### Others ###
+*.class
+*.*~
+*~
+.merge_file*
